@@ -35,8 +35,6 @@ theme:
 
 plugins:
   - search
-  - tags:
-      tags_file: wiki/tags.md
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -57,16 +55,11 @@ nav:
   - Inicio: index.md
   - Comandos Discord: wiki/reference/commands.md
   - Wiki:
-      - Índice: wiki/README.md
-      - Guías:
-          - Uso de la wiki: wiki/guides/wiki-usage.md
-      - Template: wiki/template.md
+    - Índice: wiki/README.md
+    - Guías:
+      - Uso de la wiki: wiki/guides/wiki-usage.md
+    - Template: wiki/template.md
   - Arquitectura: ARCHITECTURE.md
   - Gentle-AI: GENTLE-AI.md
   - Docker Toolchain: DOCKER-TOOLCHAIN.md
   - Workflows: WORKFLOWS.md
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Jerewergez/Agente
