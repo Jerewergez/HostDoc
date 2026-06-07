@@ -52,6 +52,7 @@ nav:
     - estudio/index.md
   - Proyectos:
     - proyectos/index.md
+    - Arquitectura Medallón: proyectos/airflow-dbt.md
   - Arquitectura:
     - arquitectura/index.md
   - Wiki:

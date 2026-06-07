@@ -4,7 +4,7 @@
 
 ## Proyectos
 
-*- Agregá tus proyectos acá -*
+- [**Airflow_DBT — Arquitectura Medallón**](airflow-dbt.md) — Pipeline de datos con dbt Core + PostgreSQL 16. Arquitectura Bronze → Silver → Gold para datos analíticos.
 
 ### Template sugerido
 
